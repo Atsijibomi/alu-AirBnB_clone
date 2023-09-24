@@ -1,1 +1,17 @@
-AirBnB Clone Console: Welcome to the AirBnB Clone Console project, where we've built a Python command interpreter for managing AirBnB objects, serving as the foundation for a comprehensive web application. Key concepts covered include creating a Python package, developing an interactive command interpreter using the cmd module, implementing unit testing, serializing and deserializing objects, working with JSON files, handling datetime, utilizing UUIDs, and mastering function argument handling. This project aims to provide a robust tool for object management, and it welcomes contributions from contributors passionate about its growth and development. To get started, simply clone the repository to your local machine and dive into the world of streamlined AirBnB object management.
+### Airbnb Clone
+
+#### Description
+> This is one phase of the Airbnb Clone: the HTML and CSS part. The Images
+> folder holds icons for the site (e.g. logo, bathroom icons, bedroom icons,
+> guest icons). The Styles folder holds CSS styling files. The largest numbered
+> style file of each category (e.g. common, footer, header, places) is most
+> relevant to the finished product. The highlest numbered index.html file is
+> likewise the most relevant to the finished product.
+
+![M](https://i.imgur.com/ujItUkN.png)
+
+### Environment
+* Languages: HTML, CSS
+* OS: Ubuntu 14.04 LTS
+* Style guidelines: ```./wc3validator.py [filename]```
+* Preview: paste index.html link and run on: http://htmlpreview.github.io/?
